@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Pokecard from './Components/Pokecard';
+import Pokedex from './Components/Pokedex';
 
 function App() {
   return (
     <div className="App">
-      <Pokecard></Pokecard>
+      <Pokedex/>
     </div>
   );
 }
