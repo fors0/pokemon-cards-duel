@@ -8,7 +8,7 @@ Remember the id has to be three digits e.g. 001, 011, 111 - it's 111 in the exam
 ## Usage
 Clone this repository, then run `npm install`.\
 Run `npm start`.\
-Refresh browser to start a new "battle".
+Refresh page to start a new "battle".
 
 ## Demo
 ![demo-pokemon-small](https://user-images.githubusercontent.com/34272473/81481794-d357fb00-9232-11ea-8ee9-7eb13d613c80.gif)
