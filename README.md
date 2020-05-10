@@ -1,7 +1,8 @@
 ## Description
-A react app mimicking pokemon cards with some sort of comparing of stats to determine who has the better hand of pokemon cards 🤷‍♂️
+A small react app mimicking a pokemon card battle. It makes two random decks from 8 cards and the deck with the most experience wins.
 
 EXP points from: https://bulbapedia.bulbagarden.net/wiki/List_of_Pokémon_by_experience_type
+Pictures from: https://assets.pokemon.com/assets/cms2/img/pokedex/detail/**_PutPokemonIdHere_**.png
 
 ## Usage
 Clone this repository, then run `npm install`.\
